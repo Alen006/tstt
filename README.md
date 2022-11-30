@@ -6,8 +6,8 @@
 ```
 
 ```diff
-RED text
-GREEN text
-ORANGE text
-GRAY text
+ RED text
+ GREEN text
+ ORANGE text
+ GRAY text
 ```
